@@ -1,0 +1,40 @@
+div.row {
+    background-color: rgba(137, 43, 226, 0.322);
+    border: 0.5px solid rgb(137, 43, 226, 0.322);
+    /* margin: 5px;
+    box-sizing: border-box;
+    text-align: center;
+    color: brown*/
+}
+
+div.row div{
+    background-color: rgba(186, 150, 218, 0.514);
+}
+h1{
+    text-align: center;
+}
+
+img{
+    width: 150px;
+}
+
+img:hover{
+    width: 180px;
+}
+
+#Leon{
+    position: absolute;
+}
+
+p{
+    text-align: justify;
+}
+
+ul{
+    text-align: left;
+}
+
+#lista{
+    display: flex;
+    justify-content: center;
+}

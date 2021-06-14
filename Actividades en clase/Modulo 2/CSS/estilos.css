@@ -1,0 +1,21 @@
+body{
+    background-color:rgb(0, 0, 0);
+    color: white;
+}
+div.secundario{
+    /*display: inline-block;*/
+    width: 12%;
+    float: left;
+    background-color: cornflowerblue;
+    padding: 5px;
+    border: 1px solid white;
+    margin: 2px;
+}
+div#ventas{
+    background-color: darkblue;
+    color: white;
+}
+#home, #contactos, #somos, #ventas, #despacho{
+    width: 90%;
+    height: 250px;
+}

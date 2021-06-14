@@ -1,0 +1,17 @@
+body {
+    margin: auto;
+    max-width: 80%;
+    text-align: justify;
+    background-image: url(https://imag.bonviveur.es/articulos/tortitas-americanas-pancakes-o-panqueques.jpg);
+    background-repeat: no-repeat;
+    background-size: 2000px ;
+    
+   
+}
+
+h1{
+  text-align: center;
+  text-decoration: underline;
+  color: rgb(248, 54, 54);
+}
+

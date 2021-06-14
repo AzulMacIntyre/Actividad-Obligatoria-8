@@ -1,0 +1,82 @@
+/*selector{
+    propiedad:valor;
+}*/
+
+body{
+    background-color: blanchedalmond;
+    /*color: brown;*/
+    font-size: 20px;
+}
+
+form{
+    text-align: center;
+}
+
+h2{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+li{
+    display: inline-block;
+    margin: 2px;
+}
+
+nav{
+    text-align: right;
+    background-color: rgb(197, 197, 197);
+    padding: 3px;
+    position: fixed;
+    top: 50px;
+    left: 70%;
+}
+
+img{
+    width: 100px;
+}
+
+footer{
+    background-color: rgb(197, 197, 197);
+    text-align: center;
+    padding: 8px;
+}
+
+article{
+    width: 70%;
+    
+}
+section{
+    display: flex;
+    justify-content: center;
+    padding: 100px;
+    background-color: rgb(5, 24, 66, 0.603);
+    margin: 50px;
+}
+
+ul li{
+    list-style: none;
+}
+
+.btn{
+    background-color: black;
+    color: white;
+    padding: 5px;
+    border-radius: 10px 0px;
+}
+
+#home, #contactos, #nosotros{
+    height: 300px;
+}
+
+/*Seudo selectores*/
+.btn:hover{
+    background-color: rgb(102,102,102);
+    color: black;
+    padding: 8px;
+    border-radius: 0px 10px;
+}
+.btn:active{
+    background-color: darkmagenta;
+}
+.btn:visited{
+    background-color: darkturquoise;
+}

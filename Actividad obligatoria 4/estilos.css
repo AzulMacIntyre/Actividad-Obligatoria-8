@@ -1,0 +1,21 @@
+body{
+    width: 85%;
+    margin: 0 auto;
+}
+
+a{
+    color: black;
+}
+
+section{
+    margin-top: 100px ;
+}
+
+img{
+    width: auto ;
+    height: 300px ;
+}
+
+form{
+    margin-top: 40px;
+}

@@ -1,0 +1,38 @@
+div{
+    width: 200px;
+    height: 200px;
+    background-color: rgba(255, 0, 0);
+    display: inline-block;
+    color: yellow;
+    padding:15px;
+    border: 3px solid black;
+    margin: 10px;
+    box-sizing: border-box;
+    box-shadow: 5px 8px 8px black;
+}
+
+div:hover{
+    opacity: 1;
+    background-color: rgba(240, 174, 174, 0.685);
+    box-shadow: 0px 20px 20px black;
+}
+
+#dos{
+    background-color: black;
+    color: white;
+    border: 3px solid red;
+}
+
+input:hover{
+    background-color: thistle;
+}
+ 
+#negro {
+    background-color: black;
+    color: white;
+}
+  
+#negro:hover {
+    opacity: 1;
+  }
+  
